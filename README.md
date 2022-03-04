@@ -8,6 +8,7 @@ Variables required
 calc = 0
  
 ````````````````````````````````````````````````````````````
+````````````````````````````````````````````````````````````
  
 Command 1 
  
@@ -55,7 +56,8 @@ $textSplit[$getServerVar[calc]; ]
 $addField[Calculator;$replaceText[$replaceText[$checkContains[$splitText[$getTextSplitLength];+;-;x;Ã·];false;$getServerVar[calc]1;-1];true;$getServerVar[calc] 1;-1]]
 $setServerVar[calc;$replaceText[$replaceText[$checkContains[$splitText[$getTextSplitLength];+;-;x;Ã·];false;$getServerVar[calc]1;-1];true;$getServerVar[calc] 1;-1]]
  
-â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”
+````````````````````````````````````````````````````````````
+````````````````````````````````````````````````````````````
  
 Command 3
  
@@ -156,6 +158,7 @@ $textSplit[$getServerVar[calc]; ]
 $addField[Calculator;$replaceText[$replaceText[$checkContains[$splitText[$getTextSplitLength];+;-;x;Ã·];false;$getServerVar[calc]7;-1];true;$getServerVar[calc] 7;-1]]
 $setServerVar[calc;$replaceText[$replaceText[$checkContains[$splitText[$getTextSplitLength];+;-;x;Ã·];false;$getServerVar[calc]7;-1];true;$getServerVar[calc] 7;-1]]
  
+````````````````````````````````````````````````````````````
 ````````````````````````````````````````````````````````````
  
 Command 9
@@ -275,6 +278,7 @@ $addField[Calculator;$getServerVar[calc] x]
 $setServerVar[calc;$getServerVar[calc] x]
  
 ````````````````````````````````````````````````````````````
+````````````````````````````````````````````````````````````
  
 Command 16
  
@@ -307,6 +311,7 @@ $onlyIf[$checkContains[$splitText[$getTextSplitLength];+;-;x;Ã·]==false;You al
 $addField[Calculator;$getServerVar[calc] -]
 $setServerVar[calc;$getServerVar[calc] -]
  
+````````````````````````````````````````````````````````````
 ````````````````````````````````````````````````````````````
  
 Command 18
@@ -360,3 +365,6 @@ $addField[Calculator;$joinSplitText[]]
 $setServerVar[calc;$joinSplitText[]]
  
 CONGRATS, YOU'VE MADE IT TO THE END!
+
+````````````````````````````````````````````````````````````
+````````````````````````````````````````````````````````````
