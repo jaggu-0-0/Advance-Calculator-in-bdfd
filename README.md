@@ -37,7 +37,7 @@ $addButton[no;<;<;danger;no;]
 $addButton[yes;0;0;secondary;no;]
 $addButton[no;00;00;secondary;no;]
 $addButton[no;000;000;secondary;no;]
-$addButton[no;ac;â†»  AC;danger;no;]
+$addButton[no;ac;AC;danger;no;]
  
 ````````````````````````````````````````````````````````````
 ````````````````````````````````````````````````````````````
