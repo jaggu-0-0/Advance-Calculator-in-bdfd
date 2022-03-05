@@ -1,5 +1,7 @@
 # Advance-Calculator-in-bdfd
 Advance Calculator Code for use in 'Bot Designer For Discord'. My discord contact jaggu_0#5899
+
+Took me 3hrs, mind give me credit? 🥺
 ````````````````````````````````````````````````````````````
 
 
